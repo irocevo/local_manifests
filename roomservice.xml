@@ -21,6 +21,8 @@
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-12.1" />
   <project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-12.1" />
   <project name="irocevo/android_device_samsung_chagallwifi" path="device/samsung/chagallwifi" remote="github" revision="5.1.1" />
+  <project name="irocevo/android_vendor_samsung_chagallwifi" path="vendor/samsung/chagallwifi" remote="github" revision="5.1.1" />
+  <project name="irocevo/android_kernel_samsung_chagallwifi" path="kernel/samsung/chagallwifi" remote="github" revision="5.1.1" />
   <project name="CyanogenMod/android_device_samsung_picassowifi" path="device/samsung/picassowifi" remote="github" />
   <project name="CyanogenMod/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
